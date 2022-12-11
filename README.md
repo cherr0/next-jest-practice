@@ -1,1 +1,1 @@
-# next-yarn-template
+# next-jest-practice
