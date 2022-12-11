@@ -5,7 +5,7 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
   compiler: {
-    styledComponents: true,
+    emotion: true,
     removeConsole: process.env.NODE_ENV === 'production'
   },
   eslint: {
